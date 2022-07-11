@@ -1,1 +1,1 @@
-This folder is for Competative questions i have done !!
+This folder is for Competative Coding questions i have done !!
